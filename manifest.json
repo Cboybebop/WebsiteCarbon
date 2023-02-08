@@ -1,0 +1,14 @@
+{
+    "name": "CO2 Stats UK",
+    "version": "1.0.0",
+    "description": "Test C02 Of website",
+    "manifest_version": 3,
+    "author": "John Markey",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Latest CO2 Report"
+    },
+    "permissions": [
+    "tabs"
+]
+}
